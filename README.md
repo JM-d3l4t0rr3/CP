@@ -1,2 +1,2 @@
-# Comp-Progra
+# Competitive Programming
 Repository of competitive programming
