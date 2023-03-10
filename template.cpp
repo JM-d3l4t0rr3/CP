@@ -18,6 +18,9 @@ int main(){
         cout<< a << endl; //loop through an array / vector
     }
 
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    
     fstream MyReadFile("input.txt");
     while (getline (MyReadFile, myText)) {
         // Output the text from the file
